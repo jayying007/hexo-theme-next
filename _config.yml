@@ -102,6 +102,7 @@ menu:
   archives: /archives/ || fa fa-archive
   #about: /about/ || fa fa-user
   书单📚: /book/ || fa fa-book
+  commonweal: /404/ || fa fa-heartbeat
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
